@@ -3,7 +3,7 @@ header {
 }
 h1 {
   color:  hsl(32,10%,95%);
-  <h1 style=font-family:Georgia,serif> </h1>
+  style=font-family:Georgia,serif> 
 }
 header  {
   background-image: url("barnc.jpg");
