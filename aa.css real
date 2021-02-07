@@ -1,0 +1,125 @@
+body {
+  color: hsl(32,25%,40%);
+}
+a:visited {
+  color: hsl(197,16%,22%);
+a:hover {
+  background-color: hsl(32,10%,95%);
+  
+  header {
+  background-color: hsl(197,16%,22%);
+}
+h1 {
+  color:  hsl(32,10%,95%);
+  <h1 style: font-family:Georgia,serif> </h1>
+}
+
+
+
+header  {
+  background-image: url("barnc.jpg");
+}
+h1 {
+  text-align: right;
+  margin: 0;
+  padding-right: 10px;
+  
+  
+  
+  h1 {
+
+div.b {
+  line-height: 76px;
+}
+  height: 76px;
+  right-padding: 10px;
+  margin: 0
+
+ <style>
+ a:hover {
+  background-color: hsl(32,10%,95%);
+  
+  
+  
+  h2 {
+  
+p {
+  color: hsl(32,25%,40%) 
+p.a {
+  font-family: Georgia,serif;
+}
+
+
+p {
+  backround-color: hsl(32,25%,40%);
+  a: visited {
+  color: hsl(197,16%,22%);
+  }
+  a: hover {
+  background-color: hsl(32,10%,95%);
+}
+  
+  
+  nav {
+  background-color: hsl(32,25%,85%);}
+p.thick {
+  font-weight: bold;
+}
+nav {border-color: hsl(32,25%,65%);}
+nav {border-width: 2px;}
+p.solid {border-style: solid;}
+nav {
+  padding: 3.2px;
+}
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+
+
+a inside nav {
+  text-decoration: none;
+div {
+ padding-top: 0px;
+ padding-bottom: 0px;
+ padding-right: 8px;
+ padding-left: 8px;
+all a elements inside nav {
+  font-size: 19.2px;
+  
+a: unvisited {
+  background-color: hsl(197,16%,22%)
+ ;
+ 
+ 
+ all visited a elements inside nav
+a:visited {
+  color: hsl(197,16%,22%);
+}
+
+
+
+all ul elements inside nav
+ul.a {list-style-type: none;}
+p {
+  margin: 0px;
+}
+div {
+  padding: 0px;
+}
+
+
+all li elements inside nav
+span.a {
+  display: inline; 
+  
+  
+  
+  <main>
+display: block;
+body {
+  background-color: #FFFFFF;
+div {
+padding-top: 1px;
+padding-right: 20px;
+padding-left: 20px;
+padding-bottom: 20px;
