@@ -9,3 +9,6 @@ p.solid {border-style: solid;}
 nav {
   padding: 3.2px;
 }
+position: -webkit-sticky;
+position: sticky;
+top: 0;
