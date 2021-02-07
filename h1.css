@@ -6,3 +6,6 @@ div.b {
   height: 76px;
   right-padding: 10px;
   margin: 0
+    
+ a:hover {
+  background-color: hsl(32,10%,95%);
