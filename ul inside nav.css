@@ -1,0 +1,8 @@
+all ul elements inside nav
+ul.a {list-style-type: none;}
+p {
+  margin: 0px;
+}
+div {
+  padding: 0px;
+}
