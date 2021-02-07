@@ -5,3 +5,7 @@ p.thick {
 }
 nav {border-color: hsl(32,25%,65%);}
 nav {border-width: 2px;}
+p.solid {border-style: solid;}
+nav {
+  padding: 3.2px;
+}
