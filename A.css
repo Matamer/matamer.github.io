@@ -1,3 +1,7 @@
 body {
   color: hsl(32,25%,40%);
 }
+a:visited {
+  color: hsl(197,16%,22%);
+a:hover {
+  background-color: hsl(32,10%,95%);
